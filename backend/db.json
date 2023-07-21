@@ -1,0 +1,120 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "img": "https://static.kfcvietnam.com.vn/images/items/lg/CBO79K_Summer.jpg?v=gOXpk3",
+      "title": "COMBO SUMMER 78K",
+      "text": "1 Miếng Gà + 1 Gà Viên (Vừa)/ 1 Burger Tôm + 1 lon Pepsi + 1 Phiếu cào",
+      "price": "78.000"
+    },
+    {
+      "id": 2,
+      "img": "https://static.kfcvietnam.com.vn/images/items/lg/CBO159K_Summer.jpg?v=gOXpk3",
+      "title": "COMBO SUMMER 156K",
+      "text": "3 Miếng Gà + 1 Gà Viên (Vừa)/ 1 Burger Tôm + 2 lon Pepsi + 2 Phiếu Cào",
+      "price": "156.000"
+    },
+    {
+      "img": "https://static.kfcvietnam.com.vn/images/items/lg/D3-new.jpg?v=gOXpk3",
+      "title": "COMBO MÌ Ý",
+      "text": "1 Mì Ý Xốt Cà Gà Viên + 1 Miếng Gà+ 1 Lon Pepsi Can",
+      "price": "87.000",
+      "id": 4
+    },
+    {
+      "img": "https://static.kfcvietnam.com.vn/images/items/lg/D5.jpg?v=gOXpk3",
+      "title": "Combo Burger",
+      "text": "1 Burger Zinger/Burger Gà Quay Flava/Burger Tôm + 1 Miếng Gà Rán + 1 Lon Pepsi",
+      "price": "89.000",
+      "id": 6
+    },
+    {
+      "img": "https://static.kfcvietnam.com.vn/images/items/lg/MIRINDA_PHI-LE.jpg?v=gMDND4",
+      "title": "COMBO TRƯA - CƠM GÀ XỐT TERIYAKI",
+      "text": "1 Cơm Gà Xốt Teriyaki + 1 Lon Mirinda cam. ",
+      "price": "44.000",
+      "id": 11
+    },
+    {
+      "img": "https://static.kfcvietnam.com.vn/images/items/lg/Kwaffle-hd.jpg?v=gMDND4",
+      "title": "GÀ CUỘN BẮC KINH HD",
+      "text": "01 Gà Cuộn Bắc Kinh + 01 miếng Gà rán + 01 Khoai tây chiên (vừa) hoặc 01 Khoai tây nghiền (vừa)",
+      "price": "89.000",
+      "id": 13
+    },
+    {
+      "img": "https://static.kfcvietnam.com.vn/images/items/lg/SALAD-HAT-GA-VIEN.jpg?v=jLWdD4",
+      "title": "Salad Pop",
+      "text": " 1 Salad Hạt Gà Viên Popcorn",
+      "price": "38.000",
+      "id": 14
+    }
+  ],
+  "users": [
+    {
+      "id": "d0f9db1d-2fc7-4423-b819-0051f9a4c6df",
+      "name": "Giang",
+      "email": "giang@gmail.com",
+      "password": "111111",
+      "cart": [
+        {
+          "id": {
+            "img": "https://static.kfcvietnam.com.vn/images/items/lg/Kwaffle-hd.jpg?v=gMDND4",
+            "title": "GÀ CUỘN BẮC KINH HD",
+            "text": "01 Gà Cuộn Bắc Kinh + 01 miếng Gà rán + 01 Khoai tây chiên (vừa) hoặc 01 Khoai tây nghiền (vừa)",
+            "price": "89.000",
+            "id": 13
+          },
+          "quantity": 1
+        },
+        {
+          "id": {
+            "img": "https://static.kfcvietnam.com.vn/images/items/lg/D1-new.jpg?v=gOXpk3",
+            "title": "Combo Gà Rán",
+            "text": "2 Miếng Gà +1 Khoai tây chiên vừa / 2 Gà Miếng Nuggets + 1 Lipton vừa",
+            "price": "87.000",
+            "id": 3
+          },
+          "quantity": 1
+        },
+        {
+          "id": {
+            "img": "https://static.kfcvietnam.com.vn/images/items/lg/Burger-Flava.jpg?v=L7DNX4",
+            "title": "BURGER GÀ QUAY FLAVA",
+            "text": "1 Burger Gà Quay Flava",
+            "price": "54.000",
+            "id": 17
+          },
+          "quantity": 1
+        }
+      ],
+      "locked": false
+    },
+    {
+      "id": "2b8fcfee-9e66-4392-bf80-12c6386c9bd6",
+      "name": "Vinh",
+      "email": "vinh@gmail.com",
+      "password": "222222",
+      "cart": []
+    },
+    {
+      "id": "a5cc3f57-0abb-472e-8293-89ced88f517b",
+      "name": "Nam",
+      "email": "nam@gmail.com",
+      "password": "333333",
+      "cart": []
+    },
+    {
+      "cart": [],
+      "id": "1Fvmokj"
+    },
+    {
+      "id": "db4cc809-fa83-4880-8c89-279d14c68d17",
+      "name": "Lâm",
+      "email": "lp76500@gmail.com",
+      "password": "111111",
+      "cart": [],
+      "locked": false
+    }
+  ]
+}
